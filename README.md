@@ -85,7 +85,7 @@ Saved predictions will appear in the `predictions/` folder.
 Below are example visualisations of the training performance:
 
 ### 🔹 Train Loss | Test Loss | Test accuracy
-![Logs](logs.png)
+![logs](logs.png)
 
 These charts reflect the model's steady improvement across 8 epochs of training.
 
