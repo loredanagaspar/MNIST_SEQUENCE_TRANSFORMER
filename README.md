@@ -85,7 +85,7 @@ Saved predictions will appear in the `predictions/` folder.
 Below are example visualisations of the training performance:
 
 ### 🔹 Train Loss | Test Loss | Test accuracy
-![](logs.png)
+![Logs](logs.png)
 
 These charts reflect the model's steady improvement across 8 epochs of training.
 
@@ -95,6 +95,9 @@ These charts reflect the model's steady improvement across 8 epochs of training.
 
 Below is a sample output showing how the model predicts a digit sequence from a 2×2 tiled MNIST image:
 
-![Sample Prediction](model/predictions/sample_0.png)
+![Sample Prediction](assets/sample_0.png)
 
 ---
+
+### Prediction GIF  
+![GIF](assets/mnist_predictions.gif)

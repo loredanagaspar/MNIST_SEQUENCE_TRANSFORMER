@@ -17,7 +17,7 @@ build/
 model/
 samples/
 predictions/
-assets/
+
 
 # VS Code
 .vscode/
