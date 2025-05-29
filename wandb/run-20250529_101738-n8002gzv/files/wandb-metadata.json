@@ -1,0 +1,37 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.10.16",
+  "startedAt": "2025-05-29T09:17:38.106735Z",
+  "program": "C:\\ML New\\mnist_sequence_transformer\\train.py",
+  "codePath": "train.py",
+  "email": "siretchi.loredana@gmail.com",
+  "root": "C:\\ML New\\mnist_sequence_transformer",
+  "host": "DESKTOP-OAOB1AD",
+  "executable": "C:\\Users\\User\\miniconda3\\envs\\condaenv\\python.exe",
+  "codePathLocal": "train.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "GeForce GTX 980M",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1999987798016",
+      "used": "215820255232"
+    }
+  },
+  "memory": {
+    "total": "34314399744"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  },
+  "gpu_nvidia": [
+    {
+      "name": "GeForce GTX 980M",
+      "memoryTotal": "4294967296",
+      "architecture": "Maxwell"
+    }
+  ],
+  "cudaVersion": "11.2"
+}

@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Conda / Jupyter
+.env/
+.ipynb_checkpoints/
+*.ipynb~ 
+*.DS_Store
+*.log
+
+#Folders
+model/
+samples/
+predictions/
+assets/
+
+# VS Code
+.vscode/
+
+# Environment files
+env/
+*.env
+*.yml~
+*.lock
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Jupyter Notebook output
+*.checkpoint
